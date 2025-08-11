@@ -1,0 +1,10 @@
+/* Example: you can override Tailwind or add custom styles here */
+
+body {
+    background-color: #f9fafb; /* Tailwind gray-50 */
+  }
+  
+  button {
+    font-weight: 600;
+  }
+  
