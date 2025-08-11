@@ -1,6 +1,6 @@
 import React from 'react';
 import DemoGameCard from './DemoGameCard';
-import { DemoGame } from '../../casino-games/utils/demoGamesData';
+import { DemoGame } from '../utils/demoGamesData';
 
 interface DemoGameListProps {
   games: DemoGame[];
